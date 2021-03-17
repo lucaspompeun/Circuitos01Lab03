@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoMZ6umD7N0Aeyrc5PyKEswPaZ3gAHnpou1cDBDqMlE+lmZR1WZqbGLNMzq1eda+qQwvV32Xylin+9KzRfNIhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\CircuitosLab03\\CircuitosLab03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\scottplot\\4.0.48\\scottplot.4.0.48.nupkg.sha512",
+    "C:\\Users\\lucas\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
